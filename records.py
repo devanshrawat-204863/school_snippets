@@ -1,4 +1,4 @@
-# Inporting dependencies
+# Importing dependencies
 import pickle
 
 # Startup message
