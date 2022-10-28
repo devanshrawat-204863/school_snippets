@@ -1,0 +1,11 @@
+Use a wire of arbitrary length L. Measure its resistance across ends A
+and B, say R1
+, using the metre bridge. Next, fold the wire so as to reduce
+its length to (L/2) and measure the new resistance, say R2
+, across the
+ends A′ and B′. Finally, fold it again and repeat the observation for
+resistance across ends A″ and B″. Plot a graph of n (number of folds)
+and the effective resistance, by folding the wire a number of times and
+obtaining resistances as described above. Take care that folded wires
+do not make electrical contact with each other at any point except at
+their ends (A, B, A′, B′ and A″, B″).
